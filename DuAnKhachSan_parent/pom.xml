@@ -4,4 +4,10 @@
   <artifactId>DuAnKhachSan_parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
+  <modules>
+  	<module>ks_api</module>
+  	<module>ks_core</module>
+  	<module>ks_webapp</module>
+  </modules>
 </project>
